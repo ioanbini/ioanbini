@@ -7,9 +7,9 @@
 
 
 
-- 👀 I’m interested in learning new staff every day and grow my mindset and skillset .
+- ⚡ I’m continiously learning every day and improve my skills and my mindset .
 - 🌱 I’m currently learning Javascript/Typescript and also Angular & React.Js frameworks!
-- 👯 I’m looking for an entry level job in Front End Developement to leverage and improve my skills
+- 👀 I’m looking for an entry level job in Front End Developement to leverage and improve my skills
 
  ## Find Me on LinkedIn :
 [<img align="left" alt="Ioan_bini | LinkedIn" width="22px" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621946446~hmac=9229d5ca279bb6d3ced4674c2d5e1197" />][linkedin]
