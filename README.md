@@ -12,7 +12,7 @@
 - 👀 I’m looking for an entry level job in Front End Developement to leverage and improve my skills
 
  ## Find Me on LinkedIn :
-[<img align="left" alt="Ioan_bini | LinkedIn" width="22px" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621946446~hmac=9229d5ca279bb6d3ced4674c2d5e1197" />][linkedin]
+[<img align="left" alt="Ioan_bini | LinkedIn" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw1qH5JeqmSIKToe0hpkjMBB&ust=1622576523087000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPi0ldzW9PACFQAAAAAdAAAAABAI" />][linkedin]
 
 <br>
 <br>
