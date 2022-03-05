@@ -8,7 +8,7 @@
 
 
 - ⚡ I’m continiously learning every day and improve my skills and my mindset .
-- 🌱 I’m currently learning Javascript/Typescript and also Angular & React.Js frameworks!
+- 🌱 I’m currently learning Javascript/Typescript and also Angular framework!
 - 👀 I’m looking for an entry level job in Front End Developement to leverage and improve my skills
 
  ## Find Me on LinkedIn :
