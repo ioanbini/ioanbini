@@ -4,16 +4,15 @@
 ### I'm a Front-End Developer !
 
 
-- ⚡ I am constantly  improving my skills and mindset .
+- ⚡ I am constantly improving my skills and mindset .
 - 🌱 I am currently learning Javascript/Typescript and also the Angular framework!
-- 🏢 Currently working as a Front-End developer ,contributing to the design and development of an Industrial IOT platform . 
+- 🏢 I am currently working as a Front-End developer ,contributing to the design and development of an Industrial IOT platform . 
 
  ## Find Me on LinkedIn :
 [<img align="left" alt="Ioannis Biniaris | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br>
 <br>
-
 
 
 ## Technology Stack:
